@@ -20,4 +20,5 @@ public class UserEntity {
     private String phone;
     private String pw;
     private boolean admin;
+    private int pno;
 }

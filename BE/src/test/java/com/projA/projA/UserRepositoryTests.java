@@ -30,7 +30,7 @@ public class UserRepositoryTests {
             UserEntity user = UserEntity.builder()
                     .dong(101)
                     .ho(100+i)
-                    .name("User"+i)
+                    .name("jaeyoon"+i)
                     .pw("1111")
                     .phone("01011112222")
                     .build();
