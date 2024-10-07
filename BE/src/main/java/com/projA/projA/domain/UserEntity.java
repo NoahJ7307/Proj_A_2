@@ -19,4 +19,5 @@ public class UserEntity {
     private String name;
     private String phone;
     private String pw;
+    private boolean admin;
 }
