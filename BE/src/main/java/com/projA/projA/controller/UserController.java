@@ -24,7 +24,12 @@ public class UserController {
 
     @GetMapping("/{uno}")
     public UserDTO read(@PathVariable(name = "uno") Long uno){
+<<<<<<< HEAD
         System.out.println("uno....(^人^) : "+uno);
+=======
+        System.out.println("uno.... : "+uno);
+        System.out.println("edit...........");
+>>>>>>> JSG
         return service.getUno(uno);
     }
 }

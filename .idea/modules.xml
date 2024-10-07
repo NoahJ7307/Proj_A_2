@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/training.iml" filepath="$PROJECT_DIR$/.idea/training.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/gitTest2.iml" filepath="$PROJECT_DIR$/.idea/gitTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/projA.iml" filepath="$PROJECT_DIR$/.idea/modules/projA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/projA.main.iml" filepath="$PROJECT_DIR$/.idea/modules/projA.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/projA.test.iml" filepath="$PROJECT_DIR$/.idea/modules/projA.test.iml" />
+>>>>>>> JSG
     </modules>
   </component>
 </project>
