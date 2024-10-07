@@ -46,12 +46,12 @@
     &quot;assignee&quot;: &quot;NoahJ7307&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/NoahJ7307/Proj_A_2/",
-    "accountId": "465f60e4-5e9d-4a2d-9684-65600421c8eb"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/NoahJ7307/Proj_A_2/&quot;,
+    &quot;accountId&quot;: &quot;465f60e4-5e9d-4a2d-9684-65600421c8eb&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -60,14 +60,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/JSG/Project/Proj_A_2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JSG/Project/Proj_A_2&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -100,6 +100,7 @@
     <MESSAGE value="1.text 삭제" />
     <MESSAGE value="controller edit" />
     <MESSAGE value="Merge branch 'CYR'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'CYR'" />
+    <MESSAGE value="재윤수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="재윤수정" />
   </component>
 </project>
